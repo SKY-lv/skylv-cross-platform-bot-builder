@@ -1,8 +1,8 @@
 ---
 name: cross-platform-bot-builder
 slug: skylv-cross-platform-bot-builder
-version: 1.0.0
-description: "跨平台 Bot 生成器。一键生成 Telegram/微信/抖音/Discord Bot，统一 API，多平台部署。Triggers: bot builder, telegram bot, wechat bot, discord bot, multi-platform bot."
+version: 1.0.2
+description: Cross-platform Bot generator. One-command Telegram/WeChat/Discord Bot creation with unified API and multi-platform deployment. Triggers: telegram bot, discord bot, wechat bot, bot builder.
 author: SKY-lv
 license: MIT
 tags: [bot, telegram, wechat, discord, cross-platform, automation]
